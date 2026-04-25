@@ -1067,7 +1067,7 @@ strong {
 }
 
 .ds4.disconnected {
-    background: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/disconnected.svg);
+    background: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/ps4-assets/disconnected.svg);
 }
 
 .ds4.disconnected div {
@@ -1339,19 +1339,19 @@ background-position: 0 -70px;
 
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/base.svg);
+    background-image: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/ps4-white-assets/base.svg);
 }
 
 .ds4.white.disconnected {
-    background: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/disconnected.svg);
+    background: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/ps4-assets/disconnected.svg);
 }
 
 .ds4.white .trigger {
-    background-image: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/triggers.svg);
+    background-image: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/ps4-white-assets/triggers.svg);
 }
 
 .ds4.white .bumper {
-    background-image: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/bumper.svg);
+    background-image: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/ps4-white-assets/bumper.svg);
 }
 
 .ds4.white .touchpad.pressed {
@@ -1363,15 +1363,15 @@ background-position: 0 -70px;
 }
 
 .ds4.white .button {
-    background-image: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/face.svg);
+    background-image: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/ps4-white-assets/face.svg);
 }
 
 .ds4.white .stick {
-    background-image: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/sticks.svg);
+    background-image: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/ps4-white-assets/sticks.svg);
 }
 
 .ds4.white .face {
-    background-image: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/dpad.svg);
+    background-image: url(https://raw.githubusercontent.com/rmaced0/kb-gpv/refs/heads/main/ps4-white-assets/dpad.svg);
 }
 
 /*END PS4 White Controller Styling*/
